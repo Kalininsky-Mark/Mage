@@ -7,8 +7,6 @@ public class EnemyFB : MonoBehaviour
     public float timeDestroy = 3f;
     public float speed = 3f;
     public Rigidbody2D rb;
-    public LayerMask Heros;
-    public LayerMask Tiles;
     public Transform target;
 
 
